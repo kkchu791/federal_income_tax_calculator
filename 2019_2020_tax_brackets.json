@@ -1,0 +1,37 @@
+[
+    {
+        "rate": 10,
+        "start_amount": 0,
+        "end_amount": 9700
+    },
+    {
+        "rate": 12,
+        "start_amount": 9701,
+        "end_amount": 39475
+    },
+    {
+        "rate": 22,
+        "start_amount": 39476,
+        "end_amount": 84200
+    },
+    {
+        "rate": 24,
+        "start_amount": 84201,
+        "end_amount": 160725
+    },
+    {
+        "rate": 32,
+        "start_amount": 160726,
+        "end_amount": 204100
+    },
+    {
+        "rate": 35,
+        "start_amount": 204101,
+        "end_amount": 510300
+    },
+    {
+        "rate": 37,
+        "start_amount": 510301,
+        "end_amount": 100000000000
+    }
+]
